@@ -1,0 +1,3 @@
+D:/Documentos/I.S.E.C/POO/POO_SECONDTRY/poo_2223_tp_m2_FilipeOliveira_2018018618_PedroPraca_2020130980/SimuladorReservaNatural/cmake-build-debug/CMakeFiles/SimuladorReservaNatural.dir
+D:/Documentos/I.S.E.C/POO/POO_SECONDTRY/poo_2223_tp_m2_FilipeOliveira_2018018618_PedroPraca_2020130980/SimuladorReservaNatural/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Documentos/I.S.E.C/POO/POO_SECONDTRY/poo_2223_tp_m2_FilipeOliveira_2018018618_PedroPraca_2020130980/SimuladorReservaNatural/cmake-build-debug/CMakeFiles/rebuild_cache.dir

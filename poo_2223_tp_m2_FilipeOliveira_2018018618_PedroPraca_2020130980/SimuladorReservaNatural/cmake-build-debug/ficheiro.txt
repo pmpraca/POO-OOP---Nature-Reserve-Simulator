@@ -1,0 +1,3 @@
+animal o 8 8
+animal l 3 3
+
